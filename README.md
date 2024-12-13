@@ -32,6 +32,5 @@ I’m also expanding my skills in Python and getting familiar with terminal comm
 - To explore new technologies and concepts at my own pace.
   
 
-## Connect with Me
 
 Thanks for visiting my profile! I'm excited to share my learning journey and collaborate on projects.
