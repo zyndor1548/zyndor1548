@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a college student studying engineering with an
 ## About Me
 
 - **Name**: Aromal A S
-- **Age**: 18
+- **Age**: 19
 - **Location**: Thiruvananthapuram, Kerala
 
 ## Learning Journey
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a college student studying engineering with an
 I'm currently in the process of learning various programming languages and web technologies:
 
 - **Web Development**: HTML, CSS, JavaScript
-- **Server-Side Languages**: PHP (beginner)
+- **Server-Side Languages**: PHP,Node.js (beginner)
 - **Programming Languages**: C, Lua (still learning)
 - **Basics of C++**: Studied in school
 
